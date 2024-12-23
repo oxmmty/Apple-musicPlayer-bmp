@@ -16,7 +16,6 @@ import 'features/song/services/song_handler.dart';
 import 'firebase_options.dart';
 
 
-
 SongHandler _songHandler = SongHandler();
 
 Future<void> main() async {
